@@ -1,3 +1,4 @@
+target/dependency/*.jar
 # Compiled class file
 *.class
 
